@@ -2,10 +2,7 @@
 This is an e-commerce marketplace homepage clone that I built using HTML and CSS while learning front-end web development. The project helped me practice layouts, Flexbox, styling, and creating a real-world website interface.
 
 ## 📖 About
-I created this project to improve my HTML and CSS skills by recreating the layout of a modern e-commerce homepage. Through this project, I learned how to structure large web pages, work with Flexbox, organize content sections, and design responsive layouts without relying on branded assets.
-
-## 🚀 Live Demo
-Coming Soon... (Deploying on Netlify)
+I created this project to improve my HTML and CSS skills by recreating the layout of a modern e-commerce homepage. Through this project, I learned how to structure large web pages, work with Flexbox, organize content sections, and design responsive layouts without relying on branded assets
 
 ## 📸 Screenshot
 Header
