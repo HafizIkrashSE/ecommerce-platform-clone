@@ -62,7 +62,7 @@ Resolving path and cross-origin hosting challenges for dynamic web layout assets
 Building clean, secure portfolio pieces that bypass trademark and automated filters
 
 👨‍💻 Author
-Hafiz Ikrash Riaz GitHub: https://github.com/HafizIkrashUE
+Hafiz Ikrash Riaz GitHub: https://github.com/HafizIkrashSE
 
 📌 Note
 This project was created strictly for learning and educational purposes to demonstrate front-end user interface design principles.
